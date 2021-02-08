@@ -48,9 +48,9 @@ The map is based on the google map data. The map has a few features as well:
 
 You must give the input of the of the coordinates in the file as follows:
 
-1. There must be a route no or the name of the place in the first cell
+1. There must be a route no or the name of the place in the first row
 
-2. And the coordinates in the second cell
+2. And the coordinates in the second row
 
 3. And then make sure to save it as a csv file by using the "save as" option in excel
 
