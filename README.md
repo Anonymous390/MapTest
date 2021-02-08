@@ -54,6 +54,14 @@ You must give the input of the of the coordinates in the file as follows:
 
 3. And then make sure to save it as a csv file by using the "save as" option in excel
 
-4. The excel file when completed should look as follows
+* The excel file when completed should look as follows
+
+![Alt Text](https://github.com/Anonymous390/MapTest/blob/main/etc/img1.png)
+
+* After saving the excel as a csv it should look as follows in plain text you can acheive this by right clicking on the file and clicking on "Edit with notepad"
+
+![Alt Text](https://github.com/Anonymous390/MapTest/blob/main/etc/img3.png)
+
+* Finally, the results exported as a csv will look as follows
 
 ![Alt Text](https://github.com/Anonymous390/MapTest/blob/main/etc/img2.png)
