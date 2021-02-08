@@ -31,7 +31,7 @@ The map is based on the google map data. The map has a few features as well:
   * Markers can also be removed from the map by left clicking on them once again.
   * The markers placed by the user are highlighted with yellow in color.
   * You can zoom in and out of the map by scrolling in and out.
-
+***
 * Clickable Markers to find out the coordinates in info-window:
 
 ![Alt Text](https://github.com/Anonymous390/MapTest/blob/main/etc/gif3.gif)
