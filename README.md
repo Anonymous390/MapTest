@@ -65,3 +65,24 @@ You must give the input of the of the coordinates in the file as follows:
 * Finally, the results exported as a csv will look as follows
 
 ![Alt Text](https://github.com/Anonymous390/MapTest/blob/main/etc/img2.png)
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+## Support
+Contact:- 
+
++91 1234567890
+
+achyutha.nr10@gmail.com
+
+## Authors and acknowledgment
+Achyutha N R
+
+Ravishankar N S
+
+Mahesha M
+
+Honourable mentions to Mr. Ravishankar N S and to Mr. Mahesha M for helping me throughout the project.
