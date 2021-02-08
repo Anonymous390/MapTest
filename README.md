@@ -37,7 +37,7 @@ The map is based on the google map data. The map has a few features as well:
 ![Alt Text](https://github.com/Anonymous390/MapTest/blob/main/etc/gif3.gif)
 ***
 2. Clicking on the coordinates in the info-window to take you to the directions:
-***
+
 ![Alt Text](https://github.com/Anonymous390/MapTest/blob/main/etc/gif4.gif)
 ***
 3. Demonstration of Placeable Markers the use of them is given above
