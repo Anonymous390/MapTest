@@ -32,4 +32,4 @@ The map is based on the google map data. The map has a few features as well:
   * The markers placed by the user are highlighted with yellow in color.
   * You can zoom in and out of the map by scrolling in and out.
 
-![Alt Text](https://github.com/Anonymous390/MapTest/blob/main/etc/gif2.gif)
+![Alt Text](https://github.com/Anonymous390/MapTest/blob/main/etc/gif3.gif)
