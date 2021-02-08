@@ -32,14 +32,14 @@ The map is based on the google map data. The map has a few features as well:
   * The markers placed by the user are highlighted with yellow in color.
   * You can zoom in and out of the map by scrolling in and out.
 ***
-* Clickable Markers to find out the coordinates in info-window:
+1. Clickable Markers to find out the coordinates in info-window:
 
 ![Alt Text](https://github.com/Anonymous390/MapTest/blob/main/etc/gif3.gif)
-
-* Clicking on the coordinates in the info-window to take you to the directions:
-
+***
+2. Clicking on the coordinates in the info-window to take you to the directions:
+***
 ![Alt Text](https://github.com/Anonymous390/MapTest/blob/main/etc/gif4.gif)
-
-* Demonstration of Placeable Markers the use of them is given above
+***
+3. Demonstration of Placeable Markers the use of them is given above
 
 ![Alt Text](https://github.com/Anonymous390/MapTest/blob/main/etc/gif5.gif)
