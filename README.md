@@ -17,4 +17,4 @@ You will be given a prompt from the script to enter the coordinate where you sta
 
 Like this:
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](https://github.com/Anonymous390/MapTest/blob/main/etc/gif1.gif)
