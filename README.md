@@ -43,3 +43,17 @@ The map is based on the google map data. The map has a few features as well:
 3. Demonstration of Placeable Markers the use of them is given above
 
 ![Alt Text](https://github.com/Anonymous390/MapTest/blob/main/etc/gif5.gif)
+
+***
+
+You must give the input of the of the coordinates in the file as follows:
+
+1. There must be a route no or the name of the place in the first cell
+
+2. And the coordinates in the second cell
+
+3. And then make sure to save it as a csv file by using the "save as" option in excel
+
+4. The excel file when completed should look as follows
+
+![Alt Text](https://github.com/Anonymous390/MapTest/blob/main/etc/img2.png)
