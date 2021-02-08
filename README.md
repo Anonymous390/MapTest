@@ -22,11 +22,14 @@ Like this:
 The rest of the coordinates will be exported into a csv sheet in the same directory with a map that should open up in your browser. If you ever want to view the same map once again that will be saved in the same directory as well.
 
 The map is based on the google map data. The map has a few features as well:
-  * Displays all the coordinates in the csv file on the map numbered in an order
-  * Starting point is display as a marker in blue color and denoted by the letter 'S'
-  * The path you have to follow is marked with a line
-  * If you want to know the coordinates of a particular marker you can click on it
-  * Clicking on the coordinates in the info-window will take you to the directions of the location
-  * Markers are placeable and draggable on the map by clicking on any part of the map as checkpoint or a waypoint
-  * The markers placed by the user are highlighted with yellow in color
+  * Displays all the coordinates in the csv file on the map numbered in an order.
+  * Starting point is display as a marker in blue color and denoted by the letter 'S'.
+  * The path you have to follow is marked with a line.
+  * If you want to know the coordinates of a particular marker you can click on it.
+  * Clicking on the coordinates in the info-window will take you to the directions of the location.
+  * Markers are placeable and draggable on the map by clicking on any part of the map as checkpoint or a waypoint.
+  * Markers can also be removed from the map by left clicking on them once again.
+  * The markers placed by the user are highlighted with yellow in color.
+  * You can zoom in and out of the map by scrolling in and out.
 
+---
