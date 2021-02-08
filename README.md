@@ -13,3 +13,5 @@ python RouteOptimization.py
 ```
 
 ## Usage
+You will be given a prompt from the script to enter the coordinate where you start off from and to enter the name of the excel file where you have rest of the coordinates
+Like this:
