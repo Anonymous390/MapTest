@@ -33,3 +33,7 @@ The map is based on the google map data. The map has a few features as well:
   * You can zoom in and out of the map by scrolling in and out.
 
 ![Alt Text](https://github.com/Anonymous390/MapTest/blob/main/etc/gif3.gif)
+
+![Alt Text](https://github.com/Anonymous390/MapTest/blob/main/etc/gif4.gif)
+
+![Alt Text](https://github.com/Anonymous390/MapTest/blob/main/etc/gif5.gif)
