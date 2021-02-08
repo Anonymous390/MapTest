@@ -13,8 +13,13 @@ python RouteOptimization.py
 ```
 
 ## Usage
-You will be given a prompt from the script to enter the coordinate where you start off from and to enter the name of the excel file where you have rest of the coordinates
+You will be given a prompt from the script to enter the coordinate where you start off from and to enter the name of the csv file where you have rest of the coordinates
 
 Like this:
 
 ![Alt Text](https://github.com/Anonymous390/MapTest/blob/main/etc/gif1.gif)
+
+The rest of the coordinates will be exported into a csv sheet in the same directory with a map that should open up in your browser. If you ever want to view the same map once again that will be saved in the same directory as well.
+
+>The map has a few features as well this map is based on the google map data.
+
